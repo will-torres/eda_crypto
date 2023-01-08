@@ -6,6 +6,7 @@ beautifulsoup4
 pillow
 seaborn
 requests
+html5lib
 
 
 
