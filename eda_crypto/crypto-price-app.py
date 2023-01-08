@@ -19,7 +19,7 @@ st.set_page_config(layout="wide")
 #---------------------------------#
 # Title
 
-image = Image.open('https://m.foolcdn.com/media/dubs/original_images/original_imageshttpsg.foolcdn.comeditorialimages655229gettyimages-cryptocu.jpg')
+image = Image.open('logo.jpg')
 
 st.image(image, width = 500)
 
