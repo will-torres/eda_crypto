@@ -19,7 +19,7 @@ st.set_page_config(layout="wide")
 #---------------------------------#
 # Title
 
-image = Image.open('will-torres/eda_crypto/eda_crypto/logo.jpg')
+image = Image.open('logo.jpg')
 
 st.image(image, width = 500)
 
